@@ -1,0 +1,114 @@
+{
+  "aptible": {
+    "ember": "1.13.11",
+    "ember_cli": "1.13.15",
+    "first_commit": "20150519",
+    "ember_data": "1.0.0-beta.19.2",
+    "auth": null
+  },
+  "balanced-dashboard": {
+    "ember": "1.8.0-beta.1",
+    "ember_cli": "0.1.2",
+    "first_commit": "20130318",
+    "ember_data": null,
+    "auth": null
+  },
+  "cargo": {
+    "ember": "2.4.0",
+    "ember_cli": "2.6.1",
+    "first_commit": "20140625",
+    "ember_data": "2.6.0",
+    "auth": null
+  },
+  "davros": {
+    "ember": "2.5.1",
+    "ember_cli": "2.5.0",
+    "first_commit": "20150711",
+    "ember_data": null,
+    "auth": null
+  },
+  "discourse": {
+    "ember": "1.12.2",
+    "ember_cli": null,
+    "first_commit": "20130205",
+    "ember_data": null,
+    "auth": false
+  },
+  "ember-addons": {
+    "ember": "2.3.0",
+    "ember_cli": "1.13.15",
+    "first_commit": "20140818",
+    "ember_data": "2.3.0",
+    "auth": null
+  },
+  "ember-observer": {
+    "ember": "2.4.1",
+    "ember_cli": "2.4.2",
+    "first_commit": "20150201",
+    "ember_data": "2.4.0",
+    "auth": null
+  },
+  "ghost": {
+    "ember": "2.5.1",
+    "ember_cli": null,
+    "first_commit": "20140223",
+    "ember_data": "2.5.2",
+    "auth": "simple-auth"
+  },
+  "hn-reader": {
+    "ember": "1.10.0",
+    "ember_cli": "0.2.0",
+    "first_commit": "20150130",
+    "ember_data": "1.0.0-beta.15",
+    "auth": null
+  },
+  "hospital-run": {
+    "ember": "2.4.1",
+    "ember_cli": "2.5.1",
+    "first_commit": "20140328",
+    "ember_data": "2.5.3",
+    "auth": "simple-auth"
+  },
+  "huboard": {
+    "ember": "1.0.0",
+    "ember_cli": null,
+    "first_commit": "20150114",
+    "ember_data": "0.13",
+    "auth": null
+  },
+  "hummingbird": {
+    "ember": "2.4.3",
+    "ember_cli": "2.4.3",
+    "first_commit": "20130128",
+    "ember_data": "2.4.2",
+    "auth": false
+  },
+  "sharedrop": {
+    "ember": "2.5.0",
+    "ember_cli": "2.5.0",
+    "first_commit": "20140124",
+    "ember_data": null,
+    "auth": null
+  },
+  "travis-ci": {
+    "ember": "2.6.0",
+    "ember_cli": "2.6.0",
+    "first_commit": "20120616",
+    "ember_data": "2.6.0",
+    "auth": null
+  },
+  "uhura": {
+    "ember": "2.0.0",
+    "ember_cli": "1.13.13",
+    "first_commit": "20140107",
+    "ember_data": "2.0.0",
+    "auth": "simple-auth"
+  },
+  "wordset": {
+    "ember": "1.13.7",
+    "ember_cli": "1.13.8",
+    "first_commit": "20150104",
+    "ember_data": "1.13.8",
+    "auth": "simple-auth"
+  }
+}
