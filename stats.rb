@@ -1,6 +1,8 @@
 require 'json'
 require 'git'
 # Stats: first commmit, ember version, embercli version
+working_directory = File.expand_path(File.dirname(__FILE__))
+
 global_stats = {}
 Dir.glob(working_directory + "/repos/*").each do |project|
   stats = {
